@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A9EC1C0-42FA-4DD1-8EF9-7A87E608EAFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5048C378-47A2-4A1A-B517-5B6CDA3CF6A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2942755-8077-4E79-911C-43DC7C155F84",
+    "height": 69,
+    "width": 51,
+    "x": 124,
+    "y": 179
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Oval Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4127C4EC-5068-4064-B1D9-0E09026EFC00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CAF29D11-B9F5-4743-BF3B-2ABA5ECB0B0E",
+  "verticalSpacing": 0
+}
