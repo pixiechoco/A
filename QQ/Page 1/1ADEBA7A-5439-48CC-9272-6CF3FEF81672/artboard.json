@@ -56,6 +56,10 @@
     {
       "class": "oval",
       "id": "9EC41000-A41A-4BFC-BD05-2548E7CFFC4B"
+    },
+    {
+      "class": "star",
+      "id": "FEC1B521-A602-4CCD-869E-F16DB610D40A"
     }
   ],
   "name": "Artboard",
